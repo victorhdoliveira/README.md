@@ -1,8 +1,7 @@
 <h2>Olá, eu sou o Victor Hugo! </h2>
 <div>
   <p>:computer: Estudante de Desenvolvimento Web na Trybe;</p>
-  <p>:medal_sports: Desenvolvedor Front-End;</p>
-  <p>:hourglass: Atualmente no módulo de Back-End;</p>
+  <p>:medal_sports: Desenvolvedor Full Stack;</p>
   <p>:mortar_board: Economista por formação e apaixonado por resolver problemas e propor soluções</p>
  </div>
 
