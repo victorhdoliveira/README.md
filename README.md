@@ -2,7 +2,7 @@
 <div>
   <p>:computer: Desenvolvedor Full Stack;</p>
   <p>:mortar_board: Economista por formação e apaixonado tecnologia</p>
-  <p>:mailbox Mais informações, conecte-se comigo no LinkedIn ou entre em contato por email</p>
+  <p>:mailbox: Mais informações, conecte-se comigo no LinkedIn ou entre em contato por email</p>
  </div>
 
 <h2>Tech Stack:</h2>
