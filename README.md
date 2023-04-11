@@ -1,8 +1,8 @@
 <h2>Olá, eu sou o Victor Hugo! </h2>
 <div>
   <p>:computer: Desenvolvedor Full Stack;</p>
-  <p>:mortar_board: Economista por formação e apaixonado tecnologia</p>
-  <p>:mailbox: Mais informações, conecte-se comigo no LinkedIn ou entre em contato por email</p>
+  <p>:mortar_board: Economista por formação e apaixonado tecnologia;</p>
+  <p>:mailbox: Para mais informações, conecte-se comigo no LinkedIn ou entre em contato por email.</p>
  </div>
 
 <h2>Tech Stack:</h2>
