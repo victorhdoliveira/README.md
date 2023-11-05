@@ -1,8 +1,6 @@
 <h2>Olá, eu sou o Victor Hugo! </h2>
 <div>
-  <p>:computer: Desenvolvedor Full Stack;</p>
   <p>:mortar_board: Economista por formação e apaixonado tecnologia;</p>
-  <p>:mailbox: Para mais informações, conecte-se comigo no LinkedIn ou entre em contato por email.</p>
  </div>
 
 <h2>Tech Stack:</h2>
@@ -22,13 +20,6 @@
   <img align="center" alt="jest" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />      
 </div>
 
-
-<h2>Contato:</h2>
-<div>
-  <a href="https://www.linkedin.com/in/victorhdoliveira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="mailto:victorhdoliveira@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
-</p>
 
 <img align="center" height="180em" width="394px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorhdoliveira&layout=compact&langs_count=7&theme=dark"/>
 
