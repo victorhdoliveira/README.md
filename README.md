@@ -6,6 +6,7 @@
 <h2>Tech Stack:</h2>
 <div>
   <img align="center" alt="javascript" width="40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align="center" alt="javascript" width="40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img align="center" alt="typescript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />  
   <img align="center" alt="node" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />  
   <img align="center" alt="sql" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />  
@@ -19,10 +20,7 @@
   <img align="center" alt="git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />    
   <img align="center" alt="jest" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />      
 </div>
-
-
-<img align="center" height="180em" width="394px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorhdoliveira&layout=compact&langs_count=7&theme=dark"/>
-
+<br>
  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=victorhdoliveira&show_icons=true&theme=transparent&title_color=fff)
  
